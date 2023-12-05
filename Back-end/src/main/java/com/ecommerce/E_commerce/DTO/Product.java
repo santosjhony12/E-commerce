@@ -23,4 +23,6 @@ public class Product {
     private String descricao;
     @Column(name = "foto")
     private String foto;
+    @Column(name = "id_categoria")
+    private Long id_categoria;
 }
