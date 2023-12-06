@@ -6,7 +6,7 @@ Back-end:
 - Java
 - Spring Boot
 - Postman (testes)
-- JUnit
+- JUnit (testes unitários)
 
 Front-end
 - HTML
