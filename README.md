@@ -7,9 +7,3 @@ Back-end:
 - Spring Boot
 - Postman (testes)
 - JUnit (testes unitários)
-
-Front-end
-- HTML
-- CSS
-- JavaScript
-- Angular JS
